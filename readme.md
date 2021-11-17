@@ -44,3 +44,4 @@ Finally deploy your code to aws by following command
 serverless deploy
 
 Each time add any code or function to project do this again - serverless deploy
+
